@@ -27,7 +27,7 @@ ESCs :
 * Four ESCs of 30 Amp ( SimonK)
 
 Motors :
-  ![](motors.jpg)
+  ![](motor.jpg)
 * Four 1000kv motors 
 Propellers:
  ![](prop.jpg)
