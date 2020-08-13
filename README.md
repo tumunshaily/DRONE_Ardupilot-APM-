@@ -4,41 +4,41 @@ DIY for Drone
 ## Requirements :
 
 Frame:
- ![FRAME](/img/frame.jpg)
+ ![FRAME](frame.jpg)
 
 * F450 
 
 Flight Controller (FC):
 
-  ![FC](/img/fc.jpg)
+  ![FC](fc.jpg)
 
 * Ardupilot/Arducopter(Clone of APM) 
 
 RC Transmitter and Receiver:
 
-  ![controller](/img/rc.jpg)
+  ![controller](rc.jpg)
 
 * FlySky FS-i6 2.4G 6CH PPM  With FS-iA6B Receiver
 
 ESCs :
 
-  ![](/img/esc.jpg)
+  ![](esc.jpg)
 
 * Four ESCs of 30 Amp ( SimonK)
 
 Motors :
-  ![](/img/motors.jpg)
+  ![](motors.jpg)
 * Four 1000kv motors 
 
 Battery :
 
-![](/img/ba.png)
+![](ba.png)
 
 * range from 2500mah - 5000mah Lithium ion / LiPo (3s,4s,6s andy type )
 
 Connectors :
 
-![](/img/jumper.jpg)
+![](jumper.jpg)
 
 * Jumper cable ( set of 60)
 
@@ -46,7 +46,7 @@ Connectors :
 
 Gps module :
 
-  ![](/img/gps.jpg)
+  ![](gps.jpg)
 
 * Ublox GPS M8N
 
