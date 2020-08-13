@@ -29,7 +29,10 @@ ESCs :
 Motors :
   ![](motors.jpg)
 * Four 1000kv motors 
-
+Propellers:
+ ![](prop.jpg)
+ 
+* 10X4.5 Inch 1045 / R CW CCW Propeller
 Battery :
 
 ![](ba.png)
