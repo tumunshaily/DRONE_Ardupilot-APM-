@@ -92,7 +92,7 @@ finally follow the below pattern to join the APM board , connect the the escs to
 
 all set to fly ! 
  
-#  INSTALL THE MISSION PLANNER or APM PLANNER for the 
+#  INSTALL THE MISSION PLANNER or APM PLANNER and follow these instruction !
 
 use this link to callibrate the APM board :
 
