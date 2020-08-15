@@ -75,7 +75,7 @@ after that use L key to screw the motors on the arms , tie the escs to the arm u
 
 for propeller use the below diagram as refference (RW - clockwise propeller):
 
-![](prop1.jpg)
+![](prop1.JPG)
 
 
 now come the fixing of FC(flight controller - APM board) place the board in center space as show below :
